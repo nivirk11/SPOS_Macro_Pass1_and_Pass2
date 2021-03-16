@@ -1,0 +1,11 @@
+1.	MOVER	(P,3)	(P,1)
+2.	ADD	(P,3)	(P,2)
+3.	MOVEM	(P,3)	(P,1)
+4.	MEND
+5.	MOVER	(P,3)	(P,1)
+6.	ADD	(P,3)	(P,2)
+7.	MOVEM	(P,3)	(P,1)
+8.	+ MOVER	AREG	(P,2)	
+9.	+ ADD	AREG	9	
+10.	+ MOVEM	AREG	(P,2)	
+11.	MEND
